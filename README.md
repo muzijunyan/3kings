@@ -1,3 +1,5 @@
-# 3kings
+# Three Kings
 
-A web page with css animation
+A simple HTML page with css animation (http://jsfiddle.net/jg59cbxL/12/)
+
+
