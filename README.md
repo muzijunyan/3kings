@@ -1,6 +1,6 @@
 # Three Kings
 
-A simple HTML page with CSS animation without Javscript coding (demo: http://jsfiddle.net/jg59cbxL/20/)
+A simple HTML page with CSS animation without Javscript coding (demo: http://jsfiddle.net/jg59cbxL/20/, inspired by http://jsfiddle.net/sok_/jg59cbxL/)
 
 The figures "king", "crown", "coat", "star", "house" are composed with several basic shapes created by CSS.
 
