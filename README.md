@@ -4,6 +4,8 @@ A simple HTML page with CSS animation without Javscript coding (demo: http://jsf
 
 The figures "king", "crown", "coat", "star", "house" are composed with several basic shapes created by CSS.
 
+A running version of this example can be started here https://muzijunyan.github.io/3kings/3kings.html.
+
 ## Basic Shapes
 
 ### 1. Triangle
