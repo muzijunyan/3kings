@@ -35,7 +35,7 @@ A circle created with CSS:
 }
 ```
 
-The example goes here: https://muzijunyan.github.io/3kings/shapes/Circle.html
+The example goes here: <a href="https://muzijunyan.github.io/3kings/shapes/Circle.html" target="_blank">Circle</a> 
 
 ### 3. Pizza Pie
 
