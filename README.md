@@ -44,13 +44,14 @@ A pizza pie (could also be cake piece, coat and more):
 ```css
 #pizza_pie {
   width: 0;
-  border-left: 50px solid transparent;
-  border-right: 50px solid transparent;
-  border-bottom: 100px solid brown;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 200px solid brown;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
 }
 ```
+The example goes here: <a href="https://muzijunyan.github.io/3kings/shapes/Pie.html" target="_blank">Pie</a> 
 
 ### 4. Hexagram
 
